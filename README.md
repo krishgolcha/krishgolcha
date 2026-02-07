@@ -1,6 +1,6 @@
 ## Krish Golcha
 
-AI Engineer  
+AI @ Amplitude (YC 12) 
 Building AI systems in stealth
 
 ---
