@@ -1,7 +1,7 @@
 ## Krish Golcha
 
-AI @ Amplitude (YC 12)
-Building AI systems in stealth
+AI @ Amplitude (YC 12) 
+| Building AI systems in stealth
 
 ---
 
