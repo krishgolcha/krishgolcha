@@ -1,6 +1,6 @@
 ## Krish Golcha
 
-AI @ Amplitude (YC 12) 
+Welcome to my hackathon github account | AI @ Amplitude (YC 12) 
 | Building AI systems in stealth
 
 ---
