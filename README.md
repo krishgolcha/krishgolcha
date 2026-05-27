@@ -1,5 +1,3 @@
-Hi,
-
 I'm Krish. Currently building around autonomous AI agents. Working towards AGI.
 
 ## My Projects
