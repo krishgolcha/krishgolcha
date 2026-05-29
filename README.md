@@ -11,6 +11,18 @@ I'm Krish. Currently building around autonomous AI agents. Working towards AGI.
 - MindPad: HackPrinceton overall winner. AI-powered multimodal learning platform.  
   GitHub: https://github.com/krishgolcha/mindpad
 
+## Achievements
+
+- GeeksForGeeks Code All India: Top 50 out of 30,000
+- HackPrinceton Winner 2026: Best Overall Hack, Best Use of Gemini by Google, Best Use of Amazon by Amazon
+- YC x Keywords AI Hackathon Winner
+- HackIllinois Winner 2026
+- OpenAI $10k Prize Winner
+- Anthropic $1k Prize Winner
+- NVIDIA x Google Hackathon Top 3
+- Rao Scholar
+- ICSE: Top 1 percentile in India; Computer Science: 100/100
+
 ## My Interests
 
 - Data and RL environments
