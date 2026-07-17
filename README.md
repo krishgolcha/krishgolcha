@@ -10,7 +10,6 @@ I'm Krish. Currently building around autonomous AI agents. Working towards AGI.
 - Anthropic $1k Prize Winner
 - NVIDIA x Google Hackathon Top 3
 - Rao Scholar
-- ICSE: Top 1 percentile in India; Computer Science: 100/100
 
 ## My Interests
 
